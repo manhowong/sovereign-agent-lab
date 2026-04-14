@@ -640,5 +640,9 @@ maintenance are also easier without complex logical rules.
 # Min 40 words.
 
 SETUP_COST_VALUE = """
-
+CALM adds a layer of reliability: It allows the AI system to follow your 
+pre-defined conversation or reasoning flows, instead of allowing the agent to 
+decide what actions to take. This ensures that the agent follow your domain-
+specific logic and business rules. It also reduces the change of agent 
+hallucination or getting stuck in a loop.
 """
